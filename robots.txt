@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ronochlo.github.io/sitemap.ronochlo.gz
+Sitemap: https://ronochlo.github.io/app/sitemap.ronochlo.gz
+Sitemap: https://ronochlo.github.io/assets/sitemap.ronochlo.gz
+Sitemap: https://ronochlo.github.io/css/sitemap.ronochlo.gz
+Sitemap: https://ronochlo.github.io/data/sitemap.ronochlo.gz
+Sitemap: https://ronochlo.github.io/includes/sitemap.ronochlo.gz
+Sitemap: https://ronochlo.github.io/item/sitemap.ronochlo.gz
+Sitemap: https://ronochlo.github.io/src/sitemap.ronochlo.gz
